@@ -1,4 +1,4 @@
-![](Screenshots/Screenshot_20260824_154236.png)# SQL Injection in Product Category Filter
+# SQL Injection in Product Category Filter
 **Lab:** SQL injection vulnerability in login function allowing  to login as any user along with Administrator **Category:** SQL Injection
 **Difficulty:** Apprentice
 
